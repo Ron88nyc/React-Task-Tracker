@@ -1,3 +1,8 @@
+Created with JS and React
+
+Task Tracker application to help manage daily task and to do list.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
